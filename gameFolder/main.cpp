@@ -1,6 +1,7 @@
 #include<iostream>
 #include<ostream>
-#include "gameIntro.h";
+#include "gameIntro.h"
+
 using namespace std;
 
 
