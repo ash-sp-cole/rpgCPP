@@ -14,7 +14,7 @@ if( totalPoints > 0) {
  
         cout << "\n Your choices are STRENGTH / HEALTH / LUCK \n  points remaining : " << totalPoints << endl;
         
-        cout << " how many points would you like to add to STRENGTH : ";
+        cout << "\n how many points would you like to add to STRENGTH : ";
 
         cin >> strength;
 
@@ -38,7 +38,7 @@ if( totalPoints > 0) {
  
         cout << "\n Your choices are STRENGTH / HEALTH / LUCK \n  points remaining : " << totalPoints << endl;
         
-        cout << " how many points would you like to add to HEALTH : "; 
+        cout << " \n how many points would you like to add to HEALTH : "; 
 
         cin >> health;
 
@@ -63,7 +63,7 @@ if( totalPoints > 0) {
  
         cout << "\n Your choices are STRENGTH / HEALTH / LUCK \n  points remaining : " << totalPoints << endl;
         
-        cout << " how many points would you like to add to LUCK : ";
+        cout << " \n how many points would you like to add to LUCK : ";
 
         cin >> luck;
 
